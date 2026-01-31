@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=kaushikyelne)
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
 I'm [Kaushik Yelne](https://kaushikyelne.github.io/), a <b> Versatile Software Engineer </b> with training and experience in <b> Backend and Frontend programming. <br /> Knowledgeable in a wide range of development languages and methodologies. I take great care in the experience, architecture, and code quality of the things I build.
