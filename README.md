@@ -11,7 +11,7 @@
 
 ### ⚙️ Currently
 
-- 🔭 Building **[MoneyLane](#)** — an AI-powered financial co-pilot that predicts overspend in real time and intervenes *before* it happens (Python · Java · Go · Kafka-style event pipeline · LLM agents · GCP)
+- 🔭 Building **[MoneyLane](https://github.com/kaushikyelne/elevenxstudios)** — an AI-powered financial co-pilot that predicts overspend in real time and intervenes *before* it happens (Python · Java · Go · Kafka-style event pipeline · LLM agents · GCP)
 - 🏗️ At **DP World**: architected 9+ microservices for customs, billing & logistics across 50+ jurisdictions — filing time ↓60% · latency ↓90% · downtime ↓70%
 - 🧠 Interested in distributed systems, event-driven architecture, and backend infrastructure for AI agents
 - 🏆 Smart India Hackathon — National Winner (Ministry of Agriculture use case)
