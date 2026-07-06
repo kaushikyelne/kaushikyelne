@@ -1,47 +1,61 @@
-<!--### Hi there 👋
--->
-<!--
-**kaushikyelne/kaushikyelne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=kaushikyelne&color=blueviolet&style=flat-square&label=Profile+Views)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://komarev.com/ghpvc/?username=kaushikyelne)
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=950&lines=Backend+Engineer+%7C+5%2B+Years+Experience;Distributed+Systems+%26+Event-Driven+Architecture;Building+MoneyLane+%E2%80%94+AI-Powered+Finance+Co-Pilot;Ex-DP+World+%C2%B7+Ex-Airtel+X+Labs)](https://git.io/typing-svg)
+ 
+</div>
 
-I'm [Kaushik Yelne](https://kaushikyelne.github.io/), a <b> Versatile Software Engineer </b> with training and experience in <b> Backend and Frontend programming. <br /> Knowledgeable in a wide range of development languages and methodologies. I take great care in the experience, architecture, and code quality of the things I build.
+---
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+### ⚙️ Currently
 
-<img align="right" alt="GIF" src="https://github.com/kunalyelne/kunalyelne/blob/main/coding.gif?raw=true" width="500" height="320" />
+- 🔭 Building **[MoneyLane](#)** — an AI-powered financial co-pilot that predicts overspend in real time and intervenes *before* it happens (Python · Java · Go · Kafka-style event pipeline · LLM agents · GCP)
+- 🏗️ At **DP World**: architected 9+ microservices for customs, billing & logistics across 50+ jurisdictions — filing time ↓60% · latency ↓90% · downtime ↓70%
+- 🧠 Interested in distributed systems, event-driven architecture, and backend infrastructure for AI agents
+- 🏆 Smart India Hackathon — National Winner (Ministry of Agriculture use case)
 
-<h4> Languages and Tools: </h4>
+---
 
-<img align="left" width="25px" height="25px" alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" width="25px" height="25px" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" width="25px" height="25px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
-<img align="left" width="25px" height="25px" alt="Spring Boot" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png"/>
-<img align="left" width="25px" height="25px" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" width="25px" height="25px" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" width="25px" height="25px" alt="React" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
-<img align="left" width="25px" height="25px" alt="Nodejs" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" width="25px" height="25px" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" width="25px" height="25px" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" width="25px" height="25px" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
+### 🛠️ Tech Stack
 
-<br />
-<br />
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+</div>
 
-<h4> Connect with me on LinkedIn </h4>
-<a href="https://www.linkedin.com/in/kaushik-yelne-4aa657170/">
-  <img align="left" alt="Kaushik Yelne | LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a>
+---
 
+
+### 📌 Featured
+
+📌 Pinned below: **MoneyLane** (0→1 AI-powered fintech system) and other backend/distributed-systems projects.
+
+---
+
+<div align="center">
+<img src="https://github.com/kunalyelne/kunalyelne/blob/main/coding.gif?raw=true" width="450"/>
+</div>
+
+---
+
+<div align="center">
+
+📫 **kaushik.s.yelne@gmail.com** · [LinkedIn](https://linkedin.com/in/kaushikyelne) · [Portfolio](https://kaushik.elevenxstudios.com/)
+
+</div>
